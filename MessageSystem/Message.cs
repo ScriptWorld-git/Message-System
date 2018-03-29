@@ -7,11 +7,11 @@ namespace MessageSystem
 {
     internal class Message : IComparable<Message>
     {
-        private int group;
+        private string group;
         private DateTime timeStamp;
         private object message;
 
-        public Message(object message, int group = -1)
+        public Message(object message, string group)
         {
             this.group = group;
             this.timeStamp = DateTime.Now;
@@ -25,7 +25,7 @@ namespace MessageSystem
 
         public override string ToString()
         {
-            return getTimeStampString() + " | "
+            return getTimeStampString() +  " "  + group + " | " + message.ToString();
         }
 
         public int CompareTo(Message other)

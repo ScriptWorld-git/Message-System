@@ -1,0 +1,6 @@
+/Users/felixbreuer/Desktop/GitHub/Message-System/MessageSystem/bin/Debug/MessageSystem.dll
+/Users/felixbreuer/Desktop/GitHub/Message-System/MessageSystem/bin/Debug/MessageSystem.pdb
+/Users/felixbreuer/Desktop/GitHub/Message-System/MessageSystem/obj/Debug/MessageSystem.csprojResolveAssemblyReference.cache
+/Users/felixbreuer/Desktop/GitHub/Message-System/MessageSystem/obj/Debug/MessageSystem.csproj.CoreCompileInputs.cache
+/Users/felixbreuer/Desktop/GitHub/Message-System/MessageSystem/obj/Debug/MessageSystem.dll
+/Users/felixbreuer/Desktop/GitHub/Message-System/MessageSystem/obj/Debug/MessageSystem.pdb
