@@ -1,0 +1,9 @@
+C:\Users\fbreu\Documents\MessageSystem\MessageSystem\bin\Debug\netstandard2.0\MessageSystem.deps.json
+C:\Users\fbreu\Documents\MessageSystem\MessageSystem\bin\Debug\netstandard2.0\MessageSystem.dll
+C:\Users\fbreu\Documents\MessageSystem\MessageSystem\bin\Debug\netstandard2.0\MessageSystem.pdb
+C:\Users\fbreu\Documents\MessageSystem\MessageSystem\obj\Debug\netstandard2.0\MessageSystem.csprojResolveAssemblyReference.cache
+C:\Users\fbreu\Documents\MessageSystem\MessageSystem\obj\Debug\netstandard2.0\MessageSystem.csproj.CoreCompileInputs.cache
+C:\Users\fbreu\Documents\MessageSystem\MessageSystem\obj\Debug\netstandard2.0\MessageSystem.AssemblyInfoInputs.cache
+C:\Users\fbreu\Documents\MessageSystem\MessageSystem\obj\Debug\netstandard2.0\MessageSystem.AssemblyInfo.cs
+C:\Users\fbreu\Documents\MessageSystem\MessageSystem\obj\Debug\netstandard2.0\MessageSystem.dll
+C:\Users\fbreu\Documents\MessageSystem\MessageSystem\obj\Debug\netstandard2.0\MessageSystem.pdb
