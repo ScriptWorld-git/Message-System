@@ -10,6 +10,8 @@ namespace MessageSystem
         private const int groupLength = 4;
         private const string defString = "MSG";
 
+        private bool save = false;
+
         private List<Message> messages = new List<Message>();
         private Dictionary<int, string> groups = new Dictionary<int, string>();
 
@@ -23,6 +25,11 @@ namespace MessageSystem
             }
 
             groups.Add(-1, def);
+        }
+
+        public void saveMode(bool mode)
+        {
+            this.save = mode;
         }
 
         public void addGroup(int ident, string name)
@@ -49,12 +56,16 @@ namespace MessageSystem
 
         public void log(object message)
         {
-            messages.Add(new Message(message, getGroupString(-1)));
+            log(message, -1);
         }
 
         public void log(object message, int group)
         {
-            messages.Add(new Message(message, getGroupString(group)));
+            Message m = new Message(message, getGroupString(group));
+            Console.WriteLine(m.ToString());
+
+            if (save)
+                messages.Add(m);
         }
 
         private string getGroupString(int key)

@@ -1,8 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="MessageSystem/Message.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MessageSystem/MS.cs">
     <Files>
-      <File FileName="MessageSystem/Message.cs" Line="28" Column="49" />
-      <File FileName="MessageSystem/MsgSystem.cs" Line="32" Column="25" />
+      <File FileName="MessageSystem/Message.cs" Line="18" Column="36" />
+      <File FileName="MessageSystem/MsgSystem.cs" Line="32" Column="1" />
+      <File FileName="MessageSystem/MS.cs" Line="6" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
